@@ -1,0 +1,1097 @@
+№,Term,Verse system,Length and form,Rhyme scheme,Origin,Theme ,Specifity,Method of creation,Lexicon,English Examples,Russian Examples
+1,ballade,syllabic,3 stanzas of 8 lines and envoi of 4 lines,"- 1st stanza: ababbcb  + ( C — refrain) 
+- 2nd stanza: ababbcb  + ( C — refrain)
+- 3rd stanza: ababbcb  + ( C — refrain)
+- 4th stanza: bcb  + ( C — refrain)",french,"a dance song with a specific theme (for example, praise of springtime and love)","an envoi is a short concluding stanza, addressed to an important person and summarizing the poem; the capitalized (C) represents a refrain, it should be repeated at the end of each stanza and envoi","### Instruction ###
+Your task is to compose a ballade, a lyrical form rooted in dance songs, known for its specific theme (such as praise of springtime, love, or social commentary) and its complex yet musical rhyme scheme. Follow these precise structural rules to ensure adherence to tradition.
+
+Constraints & Features
+Structure:
+- The poem must consist of 3 main stanzas of 8 lines each followed by an envoi (4-line concluding stanza).
+
+IMPORTANT! Identical letters in the rhyme scheme represent identical (accordant) rhymes. Different letters represent obligatory different (NOT accordant) rhymes.
+
+- Each main stanza must follow this rhyme scheme: ababbcbC
+- The envoi follows: bcbC
+- The capitalized (C) represents a refrain, repeated at the end of each stanza and envoi.
+
+Thematic Focus:
+- Choose a specific, celebratory, or reflective theme (e.g., praise of nature, love, valor, satire, or homage).
+- The envoi should be addressed to an important person (real or imagined) and should summarize the poem’s essence.
+- A traditional ballade often starts the envoi with a salutation (e.g., “O noble friend,” or “My gracious king”).
+
+Language & Style:
+- Use musical and rhythmic language to reflect the dance-like origins of the ballade.
+- Rhyme carefully—avoid overly simple or overly complex rhymes.
+- The refrain (C) should be a powerful, repeated line that enhances the poem’s meaning.
+
+Example of Structure
+(First stanza – introduces the theme, ababbcbC)
+The golden spring awakes the land, (a)
+Its breeze entwines the lilac's hue, (b)
+Soft petals bloom by nature’s hand, (a)
+As skies unveil their crystal blue. (b)
+Through fields, the dancing swallows flew, (b)
+The sunbeams kiss the morning sea, (c)
+A world reborn in light so true, (b)
+Sing now, my heart, wild, bright, and free! (C – refrain)
+
+(Second stanza – expands the idea, ababbcbC)
+The rivers hum in lilting tune, (a)
+A melody both sweet and wide, (b)
+As night surrenders unto noon, (a)
+And love walks softly by my side. (b)
+The daisies nod, the past denied, (b)
+New dreams arise where none can see, (c )
+Within this bliss, let joy abide, (b)
+Sing now, my heart, wild, bright, and free! (C – refrain)
+
+(Third stanza – deepens reflection, ababbcbC)
+Yet fleeting is the fleeting May, (a)
+And fleeting are the blooms we hold, (b)
+Though skies burn bright, they fade away, (a)
+As time spins silver into gold. (b)
+The stories of the past are told, (b)
+Through whispered winds that speak to me, (c)
+But though the stars may wax and wane, (b)
+Sing now, my heart, wild, bright, and free! (C – refrain)
+
+(Envoi – conclusion and address, bcbC)
+O gentle Muse, from shadows rise, (b)
+Let time not steal this song from thee, (c)
+And crown it with unfading skies — (b)
+Sing now, my heart, wild, bright, and free! (C – refrain)
+
+Output Format
+- Generate only the completed ballade, ensuring adherence to the fixed rhyme scheme and refrain placement.
+- Ensure the musicality and flow remain true to the form.","praise, springtime, love, passion, nature, yearning, devotion, beauty, longing, joy, heart, bliss, romance, eternity, desire, fleeting moments, harmony, grace, melody, serenade, rapture, delight, renewal, adoration, enchantment, moonlight, stars, celebration, union, togetherness, dawn, twilight, sorrow, reflection, nostalgia, eternal love, lament, hope, tranquility, spirit, exaltation, serenade, rapture, affection, warmth, moon, dawn, eternal, peace, affection, vitality, tenderness, freedom.","1) 
+False beauty that costs me so dear,
+Rough indeed, a hypocrite sweetness,
+Amor, like iron on the teeth and harder,
+Named only to achieve my sure distress,
+Charm that’s murderous, poor heart’s death,
+Ocovert pride that sends men to ruin,
+Implacable eyes, won’t true redress
+Succour a poor man, without crushing?
+
+Much better elsewhere to search for
+Aid: it would have been more to my honour:
+Retreat I must, and fly with dishonour,
+Though none else then would have cast a lure.
+Help me, help me, you greater and lesser!
+End then? With not even one blow landing?
+Or will Pity, in line with all I ask here,
+Succour a poor man, without crushing?
+
+That time will come that will surely wither
+Your bright flower, it will wilt and yellow,
+Then if I can grin, I’ll call on laughter,
+But, yet, that would be foolish though:
+You’ll be pale and ugly: and I’ll be old,
+Drink deep then, while the stream’s still flowing:
+And don’t bring trouble on all men so,
+Succour a poor man, without crushing.
+
+Amorous Prince, the greatest lover,
+I want no evil that’s of your doing,
+But, by God, all noble hearts must offer
+To succour a poor man, without crushing.
+
+2)  
+At dawn of day, when falcon shakes his wing,
+Mainly from pleasure, and from noble usage,
+Blackbirds too shake theirs then as they sing,
+Receiving their mates, mingling their plumage,
+O, as the desires it lights in me now rage,
+I’d offer you, joyously, what befits the lover.
+See how Love has written this very page:
+Even for this end are we come together.
+
+Doubtless, as my heart’s lady you’ll have being,
+Entirely now, till death consumes my age.
+Laurel, so sweet, for my cause now fighting,
+Olive, so noble, removing all bitter foliage,
+Reason does not wish me unused to owing,
+Even as I’m to agree with this wish, forever,
+Duty to you, but rather grow used to serving:
+Even for this end are we come together.
+
+And, what’s more, when sorrow’s beating
+Down on me, through Fate’s incessant rage,
+Your sweet glance its malice is assuaging,
+Nor more or less than wind blows smoke away.
+As, in your field, I plant I lose no grain,
+For the harvest resembles me, and ever
+God orders me to plough, and sow again:
+Even for this end are we come together.
+
+Princess, listen to this I now maintain:
+That my heart and yours will not dissever:
+So much I presume of you, and claim:
+Even for this end are we come together.","1) 
+Скажите, где, в стране ль теней,
+Дочь Рима, Флора, перл бесценный?
+Архиппа где? Таида с ней,
+Сестра-подруга незабвенной?
+Где Эхо, чей ответ мгновенный
+Живил, когда-то, тихий брег,
+С ее красою несравненной?
+Увы, где прошлогодний снег!
+
+Где Элоиза, всех мудрей,
+Та, за кого был дерзновенный
+Пьер Абеляр лишен страстей
+И сам ушел в приют священный?
+Где та царица, кем, надменной,
+Был Буридан, под злобный смех,
+В мешке опущен в холод пенный?
+Увы, где прошлогодний снег!
+
+Где Бланка, лилии белей,
+Чей всех пленял напев сиренный?
+Алиса? Биче? Берта? — чей
+Призыв был крепче клятвы ленной?
+Где Жанна, что познала, пленной,
+Костер и смерть за славный грех?
+Где все, Владычица вселенной?
+Увы, где прошлогодний снег!
+
+О, государь! с тоской смиренной
+Недель и лет мы встретим бег;
+Припев пребудет неизменный:
+Увы, где прошлогодний снег!
+
+2)  
+Перчаточница, ты была
+Моей усердной ученицей,
+Ты, Бланш-Башмачница, слыла
+Средь школяров своей девицей.
+Есть еще время порезвиться.
+Не надо быть с мужчиной гордой,
+Ведь на старуху кто польстится, –
+Хожденья нет монете стертой.
+
+Колбасница, ты в плен брала
+Своим искусством танцовщицы,
+Не одного с ума свела
+И Гийомета-Кружевница!
+Но скоро лавочке закрыться –
+Где ж торговать с помятой мордой.
+К кюре в кухарки подрядиться
+Останется монете стертой.
+
+Жанетта-Шляпница, смела
+Будь, чтоб со свободой не проститься.
+Катрин-Пирожница, мила
+Останься, чтоб не очутиться
+Одной, прогнав мужчин. Случится
+Жить и в опале, словно мертвой:
+Любовь не чтит морщин на лицах
+Хожденья нет монете стертой
+
+Девицы, что со мной творится,
+Вам надобно усвоить твердо:
+Никто владеть мной не стремится
+Хожденья нет монете стертой.
+"
+2,rondeau,syllabic,3 stanzas: 1) of 5 lines; 2) of 3 lines + refrain; 3) of 5 lines + refrain,"- 1st stanza: aabba
+- 2nd stanza: aab + (C — refrain)
+- 3rd stanza: aabba + (C — refrain )",french,"a light and playful form, often with a philosophical tone","2 rhymes. if masculine rhyme appears 5 times, then feminine rhyme appears 8 times, and vice versa. or if there are 7 feminine rhymes, there must be 6 masculine rhymes (and vice versa). the refrain represents a repeated shortened first line (first part of the first line) and is outside the rhyme scheme.","### Instruction ###
+Your task is to compose a rondeau, a fixed-form poem known for its playful yet philosophical tone. Follow the structural rules carefully to maintain its musicality and balance.
+
+Constraints & Features
+Structure:
+- The poem must have 13 lines + 2 refrains divided into 3 stanzas:
+    - First stanza: 5 lines
+    - Second stanza: 3 lines + refrain (a repeated SHORTENED first line, not the whole line).
+    - Third stanza: 5 lines + refrain  (a repeated SHORTENED first line, not the whole line).
+
+Rhyme Scheme & Refrain Placement:
+- First stanza: aabba
+- Second stanza: aab + (C —  refrain)
+- Third stanza: aabba + (C — refrain)
+
+IMPORTANT! Identical letters in the rhyme scheme represent identical (accordant) rhymes. Different letters represent obligatory different (NOT accordant) rhymes.
+
+Masculine & Feminine Rhyme Balance:
+- If masculine rhymes (stressed final syllables) appear 5 times, then feminine rhymes (unstressed final syllables) must appear 8 times, and vice versa.
+- Alternatively, if there are 7 feminine rhymes, then there must be 6 masculine rhymes.
+
+Tone & Style:
+- The poem should be light and musical, yet capable of conveying deeper meaning.
+- It should capture a fleeting moment, reflection, or playful observation.
+
+Example of Structure
+(First stanza – introduces the theme, aabba)
+Beneath the trees, the world is still (a)
+ No breeze disturbs the daffodil, (a)
+ The hush of dusk begins to grow, (b)
+ A silver hush, serene and slow, (b)
+ That softens earth and bends the will. (a)
+
+(Second stanza – deepens the idea, aab + refrain)
+The blackbird’s call from yonder hill (a)
+ Falls low, then leaves the air to fill (a)
+ With deeper calm than time can show — (b)
+ Beneath the trees... (C —  refrain)
+
+(Third stanza – concludes, aabba + refrain)
+The fading light, the sky’s faint chill, (a)
+ A moment caught, both sweet and shrill, (a)
+ Where thought and feeling gently flow (b)
+ Into the roots of all we know — (b)
+ Then silence holds the world until (a)
+ Beneath the trees...  (C —  refrain)
+
+Output Format
+- Generate only the completed rondeau, without additional explanation.
+- Ensure the correct rhyme, refrain placement, and rhythmic balance.","joy, play, light, dance, breeze, laughter, cheer, smile, song, whimsy, hope, dream, delight, songbird, morning, sunshine, freedom, grace, peace, youth, innocence, love, heart, melody, rhythm, wonder, gaze, harmony, playful, fleeting, moments, eternity, time, reflection, change, spring, bloom, stars, glow, nature, beauty, serenity, spirit, warmth, balance, truth, joyfulness, cheerfulness, wisdom, peace, curiosity, smiles, grace, wonder.","1) 
+In Flanders fields, the poppies blow
+Between the crosses, row on row,
+That mark our place; and in the sky
+The larks, still bravely singing, fly
+Scarce heard amid the guns below.
+
+We are the Dead. Short days ago
+We lived, felt dawn, saw sunset glow,
+Loved and were loved, and now we lie,
+In Flanders fields.
+
+Take up our quarrel with the foe:
+To you from failing hands we throw
+The torch; be yours to hold it high.
+If ye break faith with us who die
+We shall not sleep, though poppies grow
+In Flanders fields.
+
+2) 
+For to love her for her looks lovely
+My heart was set in thought right firmly,
+Trusting by truth to have had redress :
+But she hath made another promise,
+And hath given me leave full honestly.
+  
+Yet do I not rejoice it greatly :
+For on my faith I loved too surely :
+But reason will that I do cease
+For to love her.
+  
+Since that in love the pain's been deadly,
+Me think it best that readily
+I do return to my first address ;
+For at this time too great is the press
+And perils appear too abundantly
+For to love her.","1) 
+Нет ничего того, что вам твердится,
+А кто сказал — мог и ума лишиться:
+Душой я чист, и — что ни говори —
+Не видел я острога изнутри.
+Итак, друзья, прошу развеселиться.
+
+Вы ж, болтуны, которым не сидится
+От зависти и своего добиться
+Так хочется, — с досады хоть умри,
+Нет ничего.
+
+Смеюсь, пою, душою рад излиться;
+Пред дамою счастливый преклониться,
+Я прозою пишу листа два-три;
+Я выхожу; вновь дома до зари;
+На весть одну прошу вас положиться:
+Нет ничего.
+
+2) 
+В тот древний век любовь свои дела
+Без золота и хитростей вела.
+Кому она цветок передавала,
+Тому она вселенную вручала,—
+Глубокая, в сердцах она жила.
+
+А если к наслаждению тела
+Она, неосторожная, вела,
+Десятки лет она не умирала
+В тот древний век.
+
+Веления любви закрыла мгла,
+Изменчивость и льстивость всем мила.
+Кто хочет, чтоб любил я, пусть сначала
+Вернет любовь на землю, чтоб восстала
+Она в сердцах такой же, как была
+В тот древний век.
+"
+3,triolet,syllabic,1 stanza of 8 lines,ABaAabAB,french,"light genre of lyrical poetry, with a playful content often tinged with graceful eroticism",the 1st line is repeated verbatim as the 4th line; the 1st and 2nd lines are repeated unchanged as the 7th and 8th lines.,"### Instruction ###
+Your task is to write a triolet, a form of poetry consisting of eight lines that follow a specific repetition pattern. The poem should reflect a harmonious, rhythmic quality with its repeated lines and rhyme scheme.
+
+2. Constraints & Main Features:
+- The poem must have exactly 8 lines.
+- The 1st, 4th, and 7th lines must be identical.
+- The 2nd line must repeat at the end (8th line).
+- The rhyme scheme is ABaAabAB.
+
+IMPORTANT! Identical letters in the rhyme scheme represent identical (accordant) rhymes. Different letters represent obligatory different (NOT accordant) rhymes. Uppercase letters = Masculine rhymes (stressed final syllable), while lowercase letters = Feminine rhymes (unstressed final syllable).
+
+- Each line should contain roughly 11 syllables, though slight variations are acceptable.
+- The tone should be lyrical, reflecting a sense of rhythm and repetition.
+
+3. Example with Structure:
+The stars arise to crown the quiet night, (A)
+The wind begins to hum a drowsy tune; (B)
+A silver hush descends with tender light — (a)
+The stars arise to crown the quiet night. (A)
+The trees fall still beneath the waning moon, (b)
+Their branches bowed as if in soft delight. (a)
+The stars arise to crown the quiet night, (A)
+The wind begins to hum a drowsy tune. (B)
+
+4. Output Format: The output should be a triolet in the following form:
+- 8 lines in total.
+- Use proper repetition (1st, 4th, and 7th lines identical, 2nd line repeated at the 8th).
+- Maintain the ABaAabAB rhyme scheme.
+","allure, glance, spark, flutter, tease, thrill, murmur, haze, sigh, twirl, whisper, crave, blush, warm, shiver, desire, coy, dream, kissable, soft, sweet, kiss, blush, touch, velvet, passion, gleam, charm, melt, wild, heat, playful, divine, flirt, ripple, gaze, breath, smooth, bliss, caress, radiant, pulse, fleeting, sway, flutter, coyness, softness, glimmer, naughty, tingle, fluttering, desire, magnetic.","1) 
+How great my grief, my joys how few,
+Since first it was my fate to know thee!
+Have the slow years not brought to view
+How great my grief, my joys how few,
+Nor memory shaped old times anew,
+Nor loving-kindness helped to show thee
+How great my grief, my joys how few,
+Since first it was my fate to know thee! 
+
+2)
+Yes (my dear Lord) I've found it so;
+No joys but thine are purely sweet;
+Other delights come mixt with woe,
+Yes (my dear Lord) I've found it so.
+ Pleasure at courts is but in show,
+With true content in cells we meet;
+ Yes (my dear Lord) I've found it so;
+ No joys but thine are purely sweet.","1) 
+Любви цветок необычайный,
+Зачем так рано ты поблёк!
+Твоё рожденье было тайной,
+Любви цветок необычайный,
+Ты мне блеснул мечтой случайной,
+И я, как прежде, одинок.
+Любви цветок необычайный,
+Зачем так рано ты поблёк!
+
+2)
+Окруженная снами луна
+Вызывает змею из ущелья.
+Я молюсь тебе в капище сна,
+Окруженная снами луна.
+Ах, тиха же моя тишина,
+Высоко, высоко моя келья.
+Окруженная снами луна
+Вызывает змею из ущелья."
+4,ottava rima,syllabic,1 stanza of 8 lines,abababcc,italian,"the purpose is to tell an interesting storie, describe an adventure","the first 6 lines of stanza seem to encourage the unwinding of the imagination, and the last 2 lines give it a short break, reflection, or twist.","### Instruction ###
+Your task is to compose one stanza of an Ottava Rima, a poetic form designed for storytelling and imaginative exploration. Follow the traditional structure and stylistic elements carefully.
+
+Constraints & Features
+Structure:
+- The stanza must have 8 lines.
+- Each line must be written in iambic pentameter (10 syllables per line, alternating unstressed and stressed beats).
+
+Rhyme Scheme:
+- Follow this pattern: abababcc
+- The first six lines (ababab) build momentum, encourage storytelling, or develop an idea.
+- The final two lines (cc) provide a brief pause, reflection, or twist.
+
+Thematic Focus:
+- The stanza should be narrative-driven, creating a sense of motion, adventure, or unfolding drama.
+- The tone may be serious, comic, heroic, satirical, or even philosophical, depending on the subject.
+- The form allows for digressions, side stories, shifts in time and space, or sudden changes in tone.
+
+Language & Style:
+- The language should be fluid and vivid, capturing a scene, event, or thought progression.
+- The final rhyming couplet (cc) should feel like a brief pause—a witty, reflective, or conclusive moment.
+
+Example of Structure
+(Following the abababcc pattern with narrative progression:)
+
+The waves rolled forth upon the silver sand, (a)
+A distant ship cut through the morning mist, (b)
+The sailors dreamed of gold in foreign lands, (a)
+Yet feared the wrath of tempests long dismissed. (b)
+A seabird cried—a call they could not stand, (a)
+An omen whispered through the twilight kissed. (b)
+They raised their sails and prayed to Neptune’s might, (c)
+For fate was cruel and dawn would bring the fight. (c)
+
+Output Format
+- Generate only the completed Ottava Rima stanza, ensuring adherence to the fixed rhyme scheme, meter, and storytelling focus.
+- Ensure the first six lines build momentum, while the final two lines provide a moment of pause or reflection.","valor, knight, journey, glory, battle, sword, fate, courage, heart, triumph, honor, courage, love, pain, honor, blood, victory, challenge, strength, quest, valiant, loyalty, pride, crown, power, fate, kingdom, resolve, bold, fierce, pride, steadfast, steel, heartache, fall, glory, hero, questing, end, sacrifice, bravery, shield, knightly, peril, conquest, doom, legacy, victory, darkness, ambition, fierce, vengeance","1)
+Tagus, farewell! that westward with thy streams
+Turns up the grains of gold already tried
+With spur and sail, for I go seek the Thames
+Gainward the sun that shewth her wealthy pride,
+And to the town which Brutus sought by dreams,
+Like bended moon doth lend her lusty side.
+My king, my country, alone for whome I live,
+Of mighty love the wings for this me give.
+
+2)
+Which though his fears might drive him to propose,
+To time his business, for some other end;
+Yet, sure, he could not mean t' have peace with those
+Who did in that supreme degree offend.
+Nor were they such, as would be won with shows;
+Or breath of oaths, or vows could apprehend:
+So that in honour the offers he doth make,
+Were not for him to give nor them to take.
+","1)
+Кто видел край, где роскошью природы
+Оживлены дубравы и луга,
+Где весело шумят и блещут воды
+И мирные ласкают берега,
+Где на холмы под лавровые своды
+Не смеют лечь угрюмые снега?
+Скажите мне: кто видел край прелестный,
+Где я любил, изгнанник неизвестный?
+
+2)
+Близ рощи, на пригорке серый дом,
+В полуверсте от речки судоходной,
+Стоит лет сорок. Нынче пустырём
+Он стал смотреть, угрюмый и негодный.
+Срубили рощу на дрова кругом,
+Не находя её статьёй доходной;
+По трубам галки, ласточки в окошках,
+И лопухи на английских дорожках."
+5,italian (petrarchan) sonnet,syllabic,2 quatrains and 2 tercets,"- 1st quatrain: abba
+- 2nd quatrain: abba
+- 1st tercet: cde
+- 2nd tercet: cde 
+OR
+- 1st quatrain: abba
+- 2nd quatrain: abba
+- 1st tercet: cdc
+- 2nd tercet: dcd",italian,"the 1st quatrain – declaration of the theme, the 2nd quatrain – development of the lyrical theme, bringing its tension to a climax; the resolution and conclusion of the conflict occur in the tercets; final line—the sonnet’s closure—usually carry the main semantic weight","a quatrain is a stanza of 4 lines; a tercet is a stanza of 3 lines; rhymes for the sonnet should be exceptionally precise, grammatically parallel (stylistically subdued) to structure a compositional-strophic pattern","### Instruction ###
+ Your task is to compose an Italian (Petrarchan) sonnet while adhering to the following poetic rules and structure.
+
+Constraints & Features
+- The poem must have 14 lines.
+- The rhyme scheme should follow one of these two patterns:
+    2 quatrains (first 8 lines): abba abba
+    2 tercets (last 6 lines): Choose between cde—cde or cdc—dcd
+
+IMPORTANT! Identical letters in the rhyme scheme represent identical (accordant) rhymes. Different letters represent obligatory different (NOT accordant) rhymes.
+
+- Quatrains should introduce a theme, problem, or question.
+- Tercets should provide a resolution, contrast, or reflection.
+- Each line must be in iambic pentameter (10 syllables per line with alternating stress).
+- The poem should embody a reflective, romantic, or philosophical tone, in line with Petrarchan traditions.
+
+Example of Structure
+
+(1st quatrain — abba)
+The leaves fall soft along the garden wall, (a)
+Where once the lark would sing at break of day; (b)
+The vines retreat, the skies are cold and gray, (b)
+And time walks slow beneath the season's pall. (a)
+
+(2nd quatrain — abba)
+The echo of the summer birds' bright call (a)
+Now drifts like dust the wind would sweep away. (b)
+No bloom remains to dress the earth’s decay— (b)
+ All light seems lost, though darkness touches all. (a)
+
+(1st tercet— cdc)
+Yet still the root endures beneath the frost, (c)
+And dreams lie deep where silent seeds are kept; (d)
+The rose shall wake though now it seems long lost. (c)
+
+(2nd tercet— dcd)
+So must the soul, though weary once it wept, (d)
+Hold fast through sleep, though every path be crossed, (c)
+For life returns to what the cold has swept. (d)
+
+Output Format
+- Generate only the completed sonnet, without additional explanation.
+- Maintain proper rhyme and metric structure.","love & emotion: love, heart, passion, desire, longing, sorrow, tears, joy, yearn, hope; nature & imagery: sun, moon, stars, sky, rose, blossom, breeze, ocean, river, dawn; time & mortality: time, fate, death, eternity, memory, fleeting, seasons, youth, shadow, twilight; beauty & admiration: fair, grace, radiant, golden, lovely, enchanting, divine, charm, splendor, lustrous; classical & poetic language: thee, thou, thy, thine, doth, hath, whence, hence, sings, sigh.","1)
+Not like the brazen giant of Greek fame,
+With conquering limbs astride from land to land;
+Here at our sea-washed, sunset gates shall stand
+A mighty woman with a torch, whose flame
+
+Is the imprisoned lightning, and her name
+Mother of Exiles. From her beacon-hand
+Glows world-wide welcome; her mild eyes command
+The air-bridged harbor that twin cities frame.
+
+""Keep, ancient lands, your storied pomp!"" cries she
+With silent lips. ""Give me your tired, your poor,
+Your huddled masses yearning to breathe free,
+
+The wretched refuse of your teeming shore.
+Send these, the homeless, tempest-tost to me,
+I lift my lamp beside the golden door!""
+
+2)
+Foil'd by our fellow-men, depress'd, outworn,
+We leave the brutal world to take its way,
+And, Patience! in another life, we say
+The world shall be thrust down, and we up-borne.
+
+And will not, then, the immortal armies scorn
+The world's poor, routed leavings? or will they,
+Who fail'd under the heat of this life's day,
+Support the fervours of the heavenly morn?
+
+No, no! the energy of life may be
+Kept on after the grave, but not begun;
+And he who flagg'd not in the earthly strife,
+
+From strength to strength advancing--only he,
+His soul well-knit, and all his battles won,
+Mounts, and that hardly, to eternal life.
+","1)
+Пустился в путь седой как лунь старик
+Из отчих мест, где годы пролетели;
+Родные удержать его хотели,
+Но он не знал сомнений в этот миг.
+
+К таким дорогам дальним не привык,
+С трудом влачится он к заветной цели,
+Превозмогая немощь в древнем теле:
+Устать устал, но духом не поник.
+
+И вот он созерцает образ в Риме
+Того, пред кем предстать на небесах
+Мечтает, обретя успокоенье.
+
+Так я, не сравнивая вас с другими,
+Насколько это можно - в их чертах
+Найти стараюсь ваше отраженье.
+
+2)
+Среди холмов зеленых, где сначала
+Облечена была земною тканью
+Красавица, чтоб к новому страданью
+Она того, кто шлет нас, пробуждала,
+
+Свобода наша прежняя блуждала,
+Как будто можно вольному созданью
+Везде бывать по своему желанью
+И нет силков, нет гибельного жала:
+
+Однако в нашей нынешней неволе,
+Когда невзгоды наши столь суровы,
+Что гибель неизбежна в нашей доле,
+
+Утешиться мы, бедные, готовы:
+Тот, кто поймал доверчивых дотоле,
+Влачит наитягчайшие оковы.
+"
+6,french sonnet,syllabic,2 quatrains and 2 tercets,"- 1st quatrain: abba
+- 2nd quatrain: abba
+- 1st tercet: ccd
+- 2nd tercet: eed 
+OR
+- 1st quatrain: abba
+- 2nd quatrain: abba
+- 1st tercet: ccd
+- 2nd tercet: ede",french,"the 1st quatrain – declaration of the theme, the 2nd quatrain – development of the lyrical theme, bringing its tension to a climax; the resolution and conclusion of the conflict occur in the tercets; final line—the sonnet’s closure—usually carry the main semantic weight","a quatrain is a stanza of 4 lines; a tercet is a stanza of 3 lines; rhymes for the sonnet should be exceptionally precise, grammatically parallel (stylistically subdued) to structure a compositional-strophic pattern","### Instruction ###
+ Your task is to write a French sonnet while adhering to its distinct structural rules.
+
+Constraints & Features
+- The poem must have 14 lines.
+- The rhyme scheme should follow one of these patterns:
+    2 quatrains (first 8 lines): abba abba
+    2 tercets (last 6 lines): Choose between ccd—eed or ccd—ede
+
+IMPORTANT! Identical letters in the rhyme scheme represent identical (accordant) rhymes. Different letters represent obligatory different (NOT accordant) rhymes.
+
+- Quatrains should introduce a theme, problem, or question.
+- Tercets should provide a resolution, contrast, or reflection.
+- Each line must be in iambic pentameter (10 syllables per line with alternating stress).
+- The tone should be elevated and lyrical, reflecting the elegance of the French sonnet tradition.
+
+Output Format
+- Provide only the completed sonnet, without additional explanation.
+- Maintain the proper rhyme and metric structure.","love & emotion: love, heart, passion, desire, longing, sorrow, tears, joy, yearn, hope; nature & imagery: sun, moon, stars, sky, rose, blossom, breeze, ocean, river, dawn; time & mortality: time, fate, death, eternity, memory, fleeting, seasons, youth, shadow, twilight; beauty & admiration: fair, grace, radiant, golden, lovely, enchanting, divine, charm, splendor, lustrous; classical & poetic language: thee, thou, thy, thine, doth, hath, whence, hence, sings, sigh.","1)
+You that do search for every purling spring
+Which from the ribs of old Parnassus flows,
+And every flower, not sweet perhaps, which grows
+Near thereabouts, into your poesy wring;
+
+Ye that do dictionary's method bring
+Into your rimes, running in rattling rows;
+You that poor Petrarch's long-deceased woes
+With new-born sighs and denizen'd wit do sing:
+
+You take wrong ways; those far-fet helps be such
+As do bewray a want of inward touch,
+And sure, at length stol'n goods do come to light.
+
+But if, both for your love and skill, your name
+You seek to nurse at fullest breasts of Fame,
+Stella behold, and then begin to endite.
+
+2)
+Geranium, houseleek, laid in oblong beds
+On the trim grass. The daisies' leprous stain
+Is fresh. Each night the daisies burst again,
+Though every day the gardener crops their heads.
+
+A wistful child, in foul unwholesome shreds,
+Recalls some legend of a daisy chain
+That makes a pretty necklace. She would fain
+Make one, and wear it, if she had some threads.
+
+Sun, leprous flowers, foul child. The asphalt burns.
+The garrulous sparrows perch on metal Burns.
+Sing! Sing! they say, and flutter with their wings.
+
+He does not sing, he only wonders why
+He is sitting there. The sparrows sing. And I
+Yield to the strait allure of simple things.","1)  
+Когда вступил я в свет, вступив в него, вопил,
+Как рос, в младенчестве, влекомый к добру нраву,
+Со плачем пременял младенческу забаву.
+Растя, быв отроком, наукой мучим был.
+
+Возрос, познал себя, влюблялся и любил
+И часто я вкушал любовную отраву.
+Я в мужестве хотел имети честь и славу,
+Но тщанием тогда я их не получил.
+
+При старости пришли честь, слава и богатство,
+Но скорбь мне сделала в довольствии препятство.
+Теперь приходит смерть и дух мой гонит вон.
+
+Но как ни горестен был век мой, а стонаю,
+Что скончевается сей долгий страшный сон.
+Родился, жил в слезах, в слезах и умираю.
+
+2)
+Жестокая тоска, отчаяния дочь!
+Не вижу лютыя я жизни перемены:
+В леса ли я пойду или в луга зелены,
+Со мною ты везде и не отходишь прочь.
+
+Пугаюся всего, погибла сердца мочь.
+И дома, где живу, меня стращают стены.
+Терзай меня, тоска, и рви мои ты члены,
+Лишай меня ума, дух муча день и ночь!
+
+Препровождаю дни единою тоскою;
+К чему ж такая жизнь, в которой нет покою,
+И можно ли тогда бояться умереть?
+
+Я тщетно в жалобах плоды сыскать желаю.
+К тебе, о боже мой, молитву воссылаю,
+Не дай невинного в отчаянии зреть!"
+7,english (shakespearean) sonnet,syllabic,3 quatrains and a coda,"- 1st quatrain: abab
+- 2nd quatrain: cdcd
+- 3rd quatrain: efef
+- coda: gg",english,"at the end of the 3rd quatrain occurs the volta (""turn""), where the mood of the poem shifts due to the turn of thought",a quatrain is a stanza of 4 lines; a coda is a stanza of 2 lines,"### Instruction ###
+ Your task is to compose an English (Shakespearean) sonnet while adhering to its structural and stylistic rules.
+
+Constraints & Features
+- The poem must have 14 lines.
+- The rhyme scheme must follow:
+    3 quatrains (4-line stanzas): abab cdcd efef (alternating rhyme)
+    a final couplet (2-line stanza): gg (a rhymed conclusion)
+
+IMPORTANT! Identical letters in the rhyme scheme represent identical (accordant) rhymes. Different letters represent obligatory different (NOT accordant) rhymes.
+
+- The quatrains should develop a theme, problem, or argument in a progressive manner.
+- The final couplet should provide a resolution, twist, or strong concluding thought.
+- Each line must be in iambic pentameter (10 syllables per line, alternating stressed and unstressed syllables).
+- The tone should be elevated, expressive, and lyrical, in the style of Shakespearean poetry.
+
+Example of Structure
+(First quatrain – introduces a theme, abab)
+ The golden sun departs behind the hills, (a)
+ Its fading light now kisses waves so bright, (b)
+ Yet shadows creep and bring a silent chill, (a)
+ As dusk prepares the sky for starry night. (b)
+
+(Second quatrain – develops the idea, cdcd)
+ The moon ascends with silver-cast embrace, (c)
+ A beacon high that guards the world below, (d)
+ Yet time moves swift and none can slow its pace, (c)
+ For fleeting days dissolve like melting snow. (d)
+
+(Third quatrain – deepens reflection, efef)
+ If love were steel, then time would rust its frame, (e)
+ And youth, though fair, must bow to nature's will, (f)
+ Yet words endure and burn with steady flame, (e)
+ Immortal echoes whispering ever still. (f)
+(Final couplet – a resolution, gg)
+ So let these lines preserve my soul in ink, (g)
+ For time may fade, but love shall never sink. (g)
+
+Output Format
+- Provide only the completed sonnet, without additional explanation.
+- Maintain proper rhyme and metric structure.","love & emotion: love, heart, passion, desire, longing, sorrow, tears, joy, yearn, hope; nature & imagery: sun, moon, stars, sky, rose, blossom, breeze, ocean, river, dawn; time & mortality: time, fate, death, eternity, memory, fleeting, seasons, youth, shadow, twilight; beauty & admiration: fair, grace, radiant, golden, lovely, enchanting, divine, charm, splendor, lustrous; classical & poetic language: thee, thou, thy, thine, doth, hath, whence, hence, sings, sigh.","1) 
+A woman's face with nature's own hand painted
+Hast thou, the master mistress of my passion,
+A woman's gentle heart but not acquainted
+With shifting change as is false women's fashion,
+
+An eye more bright than theirs, less false in rolling,
+Gilding the object where-upon it gazeth,
+A man in hue, all hues in his controlling,
+Which steals men's eyes and women's souls amazeth.
+
+And for a woman wert thou first created,
+Till nature as she wrought thee fell a doting,
+And by addition me of thee defeated,
+By adding one thing to my purpose nothing.
+
+But since she prick't thee out for women's pleasure,
+Mine be thy love and thy love's use their treasure.
+
+2)
+Accuse me thus, that I have scanted all
+Wherein I should your great deserts repay,
+Forgot upon your dearest love to call
+Whereto all bonds do tie me day by day,
+
+That I have frequent been with unknown minds
+And giv'n to time your own dear purchas'd right,
+That I have hoisted sail to all the winds
+Which should transport me farthest from your sight.
+
+Book both my wilfulness and errors down
+And on just proof surmise, accumulate,
+Bring me within the level of your frown,
+
+But shoot not at me in your wakened hate
+Since my appeal says I did strive to prove
+The constancy and virtue of your love.","1) 
+Признайся мне, что ты не любишь никого,
+Когда и о себе заботишься так мало!
+Не мало дев вилось близ сердца твоего,
+Но сердце для любви твое не расцветало—
+
+Затем что злобы ты исполнен до того,
+Что сам готов вступить с самим собой в сраженье,
+Об удаленье в тень стараяся всего,
+Чего б ты должен был искать восстановленья.
+
+Опомнись, чтоб и я мог мысли изменить!
+Ужель жилище зла прекраснее любови?
+Ты так красив — сумей настолько ж добрым быть
+И не давай в себе бурлить напрасно крови!
+
+Подобие свое создай хоть для меня,
+Чтоб красота жила в тебе иль близ тебя.
+
+2)
+Ничто не может помешать слиянью
+Двух сродных душ. Любовь не есть любовь,
+Коль поддается чуждому влиянью,
+Коль от разлуки остывает кровь.
+
+Всей жизни цель, любовь повсюду с нами,
+Её не сломят бури никогда,
+Она во тьме, над утлыми судами
+Горит, как путеводная звезда.
+
+Бегут года, а с ними исчезает
+И свежесть сил, и красота лица;
+Одна любовь крушенья избегает,
+Не изменяя людям до конца.
+
+Коль мой пример того не подтверждает,
+То на земле никто любви не знает."
+8,ode stanza,syllabo-tonic,1 stanza of 10 lines,AbAbCCdEEd,greek,"enthusiastic and exalted lyrical verse, directed to a fixed purpose and dealing progressively with one dignified theme",it's important to observe the rule of alternance (alternation of masculine/feminine rhymes) and writte all lines in iambic tetrameter,"### Instruction ###
+Your task is to compose one stanza of an Ode, a lyrical form characterized by its enthusiastic and exalted tone, dedicated to a noble or dignified theme. Follow the structural and rhythmic rules carefully to maintain the traditional form.
+
+Constraints & Features
+Structure:
+- The stanza must have 10 lines.
+- Each line must be written in iambic tetrameter (8 syllables per line, alternating unstressed and stressed beats, starting with unstressed).
+
+Rhyme Scheme & Alternance Rule:
+- Follow this pattern: AbAbCCdEEd
+- Uppercase letters (A, B, C, D, E) = Masculine rhymes (stressed final syllable).
+- Lowercase letters (a, b, d, e) = Feminine rhymes (unstressed final syllable).
+- The rhyme scheme must alternate masculine and feminine rhymes where marked.
+
+IMPORTANT! Identical letters in the rhyme scheme represent identical (accordant) rhymes. Different letters represent obligatory different (NOT accordant) rhymes. Uppercase letters = Masculine rhymes (stressed final syllable), while lowercase letters = Feminine rhymes (unstressed final syllable).
+
+Tone & Theme:
+- The verse should be enthusiastic, elevated, and lyrical.
+- It must be directed toward a fixed, dignified purpose, developing progressively.
+- Themes may include praise of nature, love, beauty, heroism, art, or an abstract ideal.
+
+Example of Structure
+(Following the AbAbCCdEEd pattern with alternance rule:)
+O golden light on mountain high, (A)
+That bathes the hills in soft embrace, (b)
+Thy fiery rays adorn the sky, (A)
+And dance upon the river’s face. (b)
+Eternal flame, bright heart of day, (C)
+Upon thy glow our hopes are laid. (C)
+Thy warmth revives, thy touch is sweet, (d)
+A guiding torch in endless flight, (E)
+That wakes the world with golden light, (E)
+And lifts the soul where dawn may meet. (d)
+
+Output Format
+- Generate only one stanza of 10 lines, following the exact rhyme scheme, meter, and alternance rule.
+- Ensure enthusiastic, exalted language and a progressive thematic development.","nature & the elements (earth, sky, seasons, beauty): radiance, bloom, meadow, golden, azure, zephyr, lush, horizon, ocean, sunset; time & transience (fleeting moments, eternity, reflection): ephemeral, eternal, fleeting, dawning, twilight, eclipsed, cyclical, infinite, withering, vanishing; emotion & sentiment (awe, passion, wonder): yearning, reverie, rapture, bliss, exalt, wistful, serene, jubilant, lament, adoration; the divine & the sublime (mysticism, grandeur, transcendence): celestial, sacred, enshrined, divinity, ethereal, majestic, sanctum, hymn, oracle, illumined; art & creativity (inspiration, craft, immortality): muse, eloquent, symphony, lyric, canvas, monument, sonorous, quill, marble, vision","1)
+Lo! where the rosy-bosom'd Hours,
+Fair Venus' train appear,
+Disclose the long-expecting flowers,
+And wake the purple year!
+The Attic warbler pours her throat,
+Responsive to the cuckoo's note,
+The untaught harmony of spring:
+While whisp'ring pleasure as they fly,
+Cool zephyrs thro' the clear blue sky
+Their gather'd fragrance fling.
+
+2)
+Ye distant spires, ye antique tow'rs,
+That crown the wat'ry glade,
+Where grateful Science still adores
+Her Henry's holy Shade;
+And ye, that from the stately brow
+Of Windsor's heights th' expanse below
+Of grove, of lawn, of mead survey,
+Whose turf, whose shade, whose flowr's among
+Wanders the hoary Thames along
+His silver-winding way.","1)
+Царей и царств земных отрада,
+Возлюбленная тишина,
+Блаженство сёл, градов ограда,
+Коль ты полезна и красна!
+Вокруг тебя цветы пестреют
+И класы на полях желтеют;
+Сокровищ полны корабли
+Дерзают в море за тобою;
+Ты сыплешь щедрою рукою
+Своё богатство по земли.
+
+2)
+Среди игры, среди забавы,
+Среди благополучных дней,
+Среди богатства, чести, славы
+И в полной радости своей,
+Что всё сие, как дым, преходит,
+Природа к смерти нас приводит,
+Воспоминай, о человек!
+Умрешь, хоть смерти ненавидишь,
+И всё, что ты теперь ни видишь,
+Исчезнет от тебя навек."
+9,elegiac distich (couplet),quantitative,1 stanza of 2 lines,no rhyme,greek,"These couplets are epigrams, short but expressive messages. The first line contains a simple description, the second line adds a punch and makes the reader come back and think about the first line again. The couplet must be humorous.","1 line: dactylic hexameter (16 syllables in total)
+– UU – UU – |  UU – UU – UU – x
+
+2 line: dactylic pentameter (14 syllables in total)
+– UU – UU – | – UU – UU  x
+
+where «–» is one long syllable, «UU» is one long (stressed) or two short syllables, «x» is one long or one short syllable, and «|» is caesura","### Instruction ###
+Your task is to compose a humorous epigram using the classical form of the elegiac distich, a poetic couplet famous in Latin literature for its wit, brevity, and bite. Follow the formal metrical rules carefully to capture both the rhythm and the sting.
+
+Constraints & Features
+Structure:
+- The poem must be 1 stanza of 2 lines (a single couplet).
+- The lines must not rhyme.
+- Meter – Classical Quantitative Verse:
+1) First line: Dactylic hexameter (16 syllables in total)
+    - Six metrical feet, mostly dactyls (– UU), with some substitutions
+    - Syllabic pattern:
+        – UU – UU – |  UU – UU – UU – x
+    - The vertical bar (|) marks the caesura (a natural pause in the line).
+2) Second line: Dactylic pentameter (14 syllables in total)
+    - Broken into two parts with a central caesura
+    - Syllabic pattern:
+        – UU – UU – | – UU – UU  x
+    - Fewer feet than the first line, with balanced symmetry
+
+Tone & Style:
+- The epigram must be witty or humorous, often ironic or satirical.
+- The first line provides a statement or image, often seemingly simple or solemn.
+- The second line delivers a twist, a sharp comment that reframes the first line and gives it meaning.
+- The goal is to make the reader reconsider the first line after reading the second.
+
+Language & Effect:
+- The phrasing should be concise and elegant, in keeping with the classical tradition.
+- Prefer short, vivid, punchy expressions over elaboration.
+
+Example of Structure
+(Follows dactylic hexameter and pentameter – no rhyme, with humor and a twist)
+Floating illusions deceive all the hopeful who chase them afar,
+Yet wisdom lies quiet beyond reach of unlearning hearts.
+
+Output Format
+- Generate only one elegiac distich (2 lines), ensuring adherence to meter, tone, and structure.
+- The first line should state or describe, and the second line should surprise with wit or irony.","fate, silence, sorrow, wisdom, beauty, memory, longing, shadow, echo, thunder, vision, exile, glory, honor, justice, virtue, mercy, tempest, journey, ruin, morning, twilight, heaven, ashes, courage, grief, splendor, fire, stillness, dream, nightfall, fleeting, golden, vanished, cruel, radiant, sacred, haunted, distant, weary, fallen, shining, tranquil, broken, truth, despair, starlit, forever, hollow, lament","1)
+In the hexameter rises the fountain's silvery column,
+In the pentameter aye falling in melody back.
+
+2)
+When was a harsher sound ever heard, ye Muses, in England?
+When did a frog coarser croak upon our Helicon?","1) 
+Крив был Гнедич-поэт, преложитель слепого Гомера,
+Боком одним с образцом схож и его перевод.
+
+2)
+Мы не смерти боимся, но с телом расстаться нам жалко:
+‎Так не с охотою мы старый сменяем халат."
+10,haiku,syllabic,1 stanza of 3 lines,no rhyme,japanese,"a natural image, explicitly or implicitly correlated with human life",17 syllables in 3 lines:1) 5 syllables; 2) 7 syllables; 3) 5 syllables,"### Instruction ###
+ Your task is to write a haiku, a traditional Japanese short poem known for its lyrical depth and vivid imagery. Follow the precise syllabic structure and thematic focus to maintain the integrity of this poetic form.
+
+Constraints & Features
+- You must follow the traditional 5-7-5 syllable structure.
+- Include a clear reference to a season of the year (e.g. snow for winter).
+- Be nature-themed, using vivid, sensory language to create strong mental imagery.
+- Convey a philosophical or reflective undertone, capturing a fleeting moment or emotion.
+- End with a twist or shift in perspective in the third line — a subtle surprise, contrast, or realization.
+
+ Example of Structure 
+(Following the 5-7-5 syllabic pattern with thematic depth:)
+ An autumn breeze blows, (5)
+ golden leaves drift to the ground, (7)
+ whispering goodbyes. (5)
+
+Output Format
+- Provide only the haiku, without any additional explanation.
+- Follow the traditional 5-7-5 syllable structure.","spring: cherry blossoms, plum blossoms, wisteria, spring rain, skylark, butterflies, peach blossoms, warbler, spring breeze, snow melt, tadpoles, new grass, sprouting willow; summer: cicadas, fireflies, thunderstorm, morning glory, sunflower, lotus, cool evening, watermelon, summer moon, festival lanterns, swimming, sudden shower, autumn, maple leaves, moonlit night, chrysanthemum; autumn: wind, harvest moon, migrating geese, persimmon, scarecrow, dew, grasshopper, falling leaves, bonfire; winter: first snow, cold wind, icicle, winter solstice, new year's sunrise, snowflakes, bare tree, winter moon, frozen pond, hibernating bear, warm sake, frost, silent night.","1)
+Deep within the stream
+the huge fish lie motionless
+facing the current.
+
+2)
+Winds play on the stream,
+designing the bed below
+with patterns of light …","1)
+Тишина кругом.
+Проникают в сердце скал
+Голоса цикад.
+
+2)
+Ливень грозовой!
+За траву чуть держится
+Стайка воробьев.
+"
+11,tanka,syllabic,1 stanza of 5 lines,no rhyme,japanese,"love, the shortness of life, nature and seasons, sadness; tanka use strong images and may employ the poetic devices, such as metaphor and personification",31 syllables in 5 lines:1) 5 syllables; 2) 7 syllables; 3) 5 syllables; 4) 7 syllables; 5) 7 syllables ,"### Instruction ###
+Your task is to compose a tanka, a traditional Japanese short poem known for its lyrical depth and vivid imagery. Follow the precise syllabic structure and thematic focus to maintain the integrity of this poetic form.
+
+Constraints & Features
+Structure:
+- The poem must have 5 lines.
+- Each line must follow this syllabic pattern:
+5 - 7 - 5 - 7 - 7 (totaling 31 syllables).
+
+Thematic Focus:
+- The tanka should evoke strong emotions and often explore:
+    Love and longing;
+    The fleeting nature of life;
+    Seasons and nature’s beauty;
+    Melancholy and reflection.
+- The theme should be conveyed through vivid imagery.
+
+Poetic Devices:
+- Use metaphor, personification, and sensory language to enhance emotional depth.
+- The poem should not rhyme but should flow naturally.
+
+Tone & Style:
+- The first three lines often introduce an image or emotion.
+- The last two lines provide a shift in thought, perspective, or a deeper reflection.
+
+Example of Structure
+(Following the 5-7-5-7-7 syllabic pattern with thematic depth)
+Autumn wind sighs low (5)
+through the brittle maple leaves — (7)
+a crimson whisper (5)
+of hands once warm in mine fades (7)
+like breath on morning’s mirror. (7)
+
+Output Format
+- Generate only the completed tanka, ensuring adherence to the fixed syllabic structure and thematic depth.
+- Use strong imagery and poetic devices to enhance the experience.","spring: cherry blossoms, plum blossoms, wisteria, spring rain, skylark, butterflies, peach blossoms, warbler, spring breeze, snow melt, tadpoles, new grass, sprouting willow; summer: cicadas, fireflies, thunderstorm, morning glory, sunflower, lotus, cool evening, watermelon, summer moon, festival lanterns, swimming, sudden shower, autumn, maple leaves, moonlit night, chrysanthemum; autumn: wind, harvest moon, migrating geese, persimmon, scarecrow, dew, grasshopper, falling leaves, bonfire; winter: first snow, cold wind, icicle, winter solstice, new year's sunrise, snowflakes, bare tree, winter moon, frozen pond, hibernating bear, warm sake, frost, silent night.","1)
+summer sun glistens
+over water and oars drip
+gold then disappear.
+will the sea ever carry
+me home to your waiting arms?
+
+2)
+In the corner lay
+dust that once had danced lightly,
+sparkling and twinkling,
+as they transcended darkness
+to become nothing but dirt.
+","1)
+Волны играют
+В заливе Суми, даже
+В эту ночь, когда
+В своих тайных мечтаньях
+Я пробираюсь к тебе.
+
+2)
+Под циновками
+Прячутся крестьяне от
+Осенних дождей.
+Вот и мои рукава
+От росы промокают."
+12,cinquain,syllabic,1 stanza of 5 lines,"usually cinquains do not have rhymes; when they do, the effect can be humorous.",english,"brief statements and images, philosophical tone","22 syllables in 5 lines:1) 2 syllables; 2) 4 syllables; 3) 6 syllables; 4) 8 syllables; 5) 2 syllables; cinquain sometimes moves in iambs, but is not required to","### Instruction ###
+Your task is to compose a cinquain, a five-line poetic form known for its brevity, vivid imagery, and surprising climax. Follow the structural and stylistic guidelines carefully.
+
+Constraints & Features
+Structure:
+- The stanza must have 5 lines.
+- The total syllable count should be 22, divided as follows:
+    First line: 2 syllables
+    Second line: 4 syllables
+    Third line: 6 syllables
+    Fourth line: 8 syllables
+    Fifth line: 2 syllables
+
+Rhythm & Flow:
+- The poem may use iambs, but this is not required.
+- The first and last lines should have two strongly accented syllables to create emphasis.
+- The lines should not feel complete on their own, but instead flow into each other, creating movement.
+
+Thematic Focus:
+- Stick to concrete nouns and strong images rather than generalizations or abstract ideas.
+- Themes may include nature, a single fleeting moment, an object, or an emotion captured through imagery.
+- The cinquain should build toward a climax, with the next-to-last line creating suspense and the final line delivering a surprise or twist.
+
+Language & Style:
+- Avoid filler words—each word should carry weight.
+- Avoid making the poem sound like a generic saying about life.
+- The imagery should be precise and vivid, creating a clear mental picture.
+
+Example of Structure
+(Following the 2-4-6-8-2 pattern, avoiding full-sentence breaks, and building to a climax:)
+Night rain (2)
+taps on metal (4)
+echoes through dark halls (6)
+shadows stir amid shattered glass (8)
+Moon laughs (2)
+
+Output Format
+- Generate only the completed cinquain, ensuring adherence to the fixed syllabic pattern and thematic elements.
+- Ensure the poem builds toward a climax, avoiding static or generic phrasing.","frost, ember, ripple, dawn, dusk, flame, whisper, shadow, bloom, thunder, crystal, hush, echo, river, stone, wind, leaf, prism, comet, beacon, mist, wave, dune, petal, mirror, torrent, breeze, glare, glimmer, spark, drift, surge, veil, murmur, flash, coil, pillar, vault, spiral, cascade, depth, solitude, flicker, horizon, pulse, shimmer, glint, canyon, blossom, twilight","1) 
+These be
+Three silent things:
+The falling snow. . the hour
+Before the dawn. . the mouth of one
+Just dead.
+
+2)
+With swift
+Great sweep of her
+Magnificent arm my pain
+Clanged back the doors that shut my soul
+From life.
+","1) 
+Слушай...
+робкий, тихий,
+как призрака шаг, звук -
+мёрзлый лист срывается прочь.
+и вниз…
+
+2)
+Асфальт
+Промок насквозь
+И выключают свет
+Заплаканные, серые
+Дома."
