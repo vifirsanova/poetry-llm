@@ -1,14 +1,15 @@
 import argparse, re
-from dotenv import load_dotenv
 from transformers import AutoTokenizer, BitsAndBytesConfig, Gemma3ForCausalLM
 import torch
 
 parser = argparse.ArgumentParser(description="Инструмент для генерации стихотворений на основе базы знаний")
 parser.add_argument("--prompt", type=str, required=True, help="Описание стихотворения")
 parser.add_argument("--temperature", type=float, required=True, help="Температура")
+parser.add_argument("--lang", type=str, required=True, help="Язык: en/ru")
 args = parser.parse_args()
 prompt = args.prompt
 temperature = args.temperature
+lang = args.lang
 
 model_id = "google/gemma-3-1b-it"
 
@@ -24,8 +25,11 @@ model = Gemma3ForCausalLM.from_pretrained(
 # Токенизация тоже производится локально, т.е. на нашем устройстве
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 
-# Подгрузка промптов с файла
-with open('prompts/meta_prompt.txt') as f:
+# Определяем путь к файлу с промптом на нужном языке
+prompt_path ='prompts/meta_prompt.txt' if lang == 'en' else 'prompts/meta_prompt_ru.txt' 
+
+# Открываем файл с нужным промптом
+with open(prompt_path) as f:
     system_prompt = f.read()
 
 # Подгрузка базы данных из файла
@@ -45,7 +49,6 @@ messages = [
         },
     ],
 ]
-
 inputs = tokenizer.apply_chat_template(
     messages,
     add_generation_prompt=True,

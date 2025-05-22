@@ -1,5 +1,4 @@
 import argparse, re, csv
-from dotenv import load_dotenv
 from transformers import AutoTokenizer, BitsAndBytesConfig, Gemma3ForCausalLM
 import torch
 
@@ -38,7 +37,6 @@ with open('data/database.json') as f:
 with open('data/prompts.csv', 'r') as csvfile:
     csvreader = csv.DictReader(csvfile)
     prompts = [row for row in csvreader]
-    print(prompts)
 
 # Системные роли удобнее подгружать из отдельного файла
 messages = [
